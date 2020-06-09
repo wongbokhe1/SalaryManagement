@@ -1,0 +1,17 @@
+E:\Visual Studio\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.csprojAssemblyReference.cache
+E:\Visual Studio\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.Properties.Resources.resources
+E:\Visual Studio\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.csproj.GenerateResource.cache
+E:\Visual Studio\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.csproj.CoreCompileInputs.cache
+E:\Visual Studio\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.exe.config
+E:\Visual Studio\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.exe
+E:\Visual Studio\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.pdb
+E:\Visual Studio\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.exe
+E:\Visual Studio\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.pdb
+E:\Visual Studio\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.AttendanceManagement.resources
+E:\Visual Studio\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.MainForm.resources
+E:\Visual Studio\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.Salary_Statistics.resources
+E:\Visual Studio\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.Employee_Management.resources
+E:\Visual Studio\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.Subsidy_Management.resources
+E:\Visual Studio\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.WorkType_Management.resources
+E:\Visual Studio\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.AddEmployee.resources
+E:\Visual Studio\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.AddWorkType.resources
